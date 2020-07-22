@@ -22,4 +22,5 @@
    - Braid wire (for the flexibility of the  fingures of the bot)
 
 ## Workflow
+![](https://static-01.hindawi.com/articles/tswj/volume-2014/267872/figures/267872.fig.001.jpg)
    
