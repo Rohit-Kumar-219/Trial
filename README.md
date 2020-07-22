@@ -7,7 +7,7 @@
    
 
 ## Motivation 
-   The motivation is to create a bot that can copy the movements of an original hand. With further motivations this bot can be upgraded to an artificial hand. This model is just to understand the coordination between the human and robotic actions. This bot aims in maximising of the patterns of the human hand, to replicate it.
+   The motivation is to create a bot that can copy the movements of an original hand. With further motivations this bot can be upgraded to an artificial hand. This model is just to understand the coordination between the human and robotic actions. This bot aims in maximising of the patterns of the human hand, to replicate it. 
 
 ## Components
    
