@@ -4,6 +4,7 @@
 ## Abstract
    
    The aim of the project is to create hand bot which can replicate the movements of hands of the person who is interacting with the bot, with the help of image processing. This project is a combination of live motion detection and gesture identification.
+   
 
 ## Motivation 
    
@@ -23,4 +24,7 @@
 
 ## Workflow
 ![](https://static-01.hindawi.com/articles/tswj/volume-2014/267872/figures/267872.fig.001.jpg)
+
+## Mechanical aspect of the design
+### Structure
    
