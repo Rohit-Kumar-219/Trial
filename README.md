@@ -11,15 +11,15 @@
 
 ## Components
    
-   -2x Arduino 
-   -2x NRF module
-   -5x Servomotor
-   -Laptop (for image processing)
-   -5x 10k Resistors
-   -2x 9V Batteries
-   -2x Breadboard
-   -Jumpers
-   -Braid wire (for the flexibility of the  fingures of the bot)
+   - 2x Arduino 
+   - 2x NRF module
+   - 5x Servomotor
+   - Laptop (for image processing)
+   - 5x 10k Resistors
+   - 2x 9V Batteries
+   - 2x Breadboard
+   - Jumpers
+   - Braid wire (for the flexibility of the  fingures of the bot)
 
 ## Workflow
    
