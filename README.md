@@ -28,10 +28,8 @@
 ## Mechanical aspect of the design
 
 ### Structure
-### Working of the bot
-   The bot has 5 servo motors connected to separate copper strings which is joined to the fingures of the bot. When the arduino of the bot recieves the signals, the corresponding set of motor is **switched on** amd hence the copper string is pulled, thus, bending the corresponding fingure. When the srint is released the braid wire in the rear part of the fingure brings the fingure into its original state.
+The bot has 5 servo motors connected to separate copper strings which is joined to the fingures of the bot. When the arduino of the bot recieves the signals, the corresponding set of motor is **switched on** amd hence the copper string is pulled, thus, bending the corresponding fingure. When the srint is released the braid wire in the rear part of the fingure brings the fingure into its original state.
 
-   imaage
 
 ## Electrical aspect of the design
    
@@ -49,18 +47,23 @@
 
 ### Other components  
    
-   - 2 nrf modules are used for the data transmission from the laptop to the bot.
+   - 2 nRF24L01 modules are used for the data transmission from the laptop to the bot.
    - 10k resistors are attacher to the motors to reduce the effective voltage over the motors.
 
 ## Cost Structure
+
 | Components | Cost(INR) |
 | --- | --- |
-| Arduino(x2) |  
+| Arduino Uno | 499 |
+| nRF24L01 module | 81 |
+| Servo motor | 149 |
+| 9V Battery | 25 |
+
 
 ## Applications 
  
-   - for robotic hands in factories 
-   - ghfhgf
+   - For conrolling the movements of the robotic hands in factories for more precise works.
+   - For upgrading the home automation technology, with the help of hand gesture recognition.
 
 ## Limitations
    
@@ -81,5 +84,5 @@
 
 ## Mentors
 
-   1. Shivateja 
+   1. Shiva Sri Teja 
    2. Kunal
