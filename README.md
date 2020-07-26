@@ -40,8 +40,9 @@ The bot has 5 servo motors connected to separate copper strings which is joined 
 ### Sensor 
    
    The laptop camera works as a sensor in the project, for image identification.
-   Image identification and segregation workflow:-
-![](https://static-01.hindawi.com/articles/tswj/volume-2014/267872/figures/267872.fig.001.jpg)
+   
+   
+![Image identification and segregation workflow](https://static-01.hindawi.com/articles/tswj/volume-2014/267872/figures/267872.fig.001.jpg)
 ### Actuators 
    
    Five 90 degree servo motors are used in the bot for the comprassion and relaxation of the fingures.
