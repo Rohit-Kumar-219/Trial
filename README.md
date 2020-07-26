@@ -26,5 +26,60 @@
 ![Workflow](https://static-01.hindawi.com/articles/tswj/volume-2014/267872/figures/267872.fig.001.jpg)
 
 ## Mechanical aspect of the design
+
 ### Structure
-   The main frame of the bot is 3d printed. Apart from the 3d frame, the structure has grooves which are made to mount the motors and the breadboard inside the model. Braid wire is used to provide stiffness to the fingures of the bot whereas copperwire is used to connect the tip of the fingure to the rotors of the motors. In total the bot will contain the motors, arduino, reciever nrf module and a battery. The transitor portion (i.e. the arduino and the transmitter nrf module) will be attached to the laptop, for identifying the pattern and sending the signals to the bot.
+### Working of the bot
+   The bot has 5 servo motors connected to separate copper strings which is joined to the fingures of the bot. When the arduino of the bot recieves the signals, the corresponding set of motor is **switched on** amd hence the copper string is pulled, thus, bending the corresponding fingure. When the srint is released the braid wire in the rear part of the fingure brings the fingure into its original state.
+
+   imaage
+
+## Electrical aspect of the design
+   
+### Microcontroler 
+   
+   Two Arduino Uno are used, one in the receiver segment and other in the bot.
+
+### Sensor 
+   
+   The laptop camera works as a sensor in the project, for image identification.
+
+### Actuators 
+   
+   Five 90 degree servo motors are used in the bot for the comprassion and relaxation of the fingures.
+
+### Other components  
+   
+   - 2 nrf modules are used for the data transmission from the laptop to the bot.
+   - 10k resistors are attacher to the motors to reduce the effective voltage over the motors.
+
+## Cost Structure
+| Components | Cost(INR) |
+| --- | --- |
+| Arduino(x2) |  
+
+## Applications 
+ 
+   - for robotic hands in factories 
+   - ghfhgf
+
+## Limitations
+   
+   - the intermidiate state between straight and complete bend fingure cannot be taken into consideration.
+   - the bot can hold items with less weight only.
+
+## Future Improvements 
+   
+   - better length analysis will help in judging the semi-bend state,i.e., including the length from the palm point.
+   - Image processing can be replaced by ultra sensitive flex sensors and small stepper motors for better precision of the motion.
+
+## Team members 
+   1. Rohit Kumar 
+   2. Rohit Sondarva
+   3. Anubhuti Shruti
+   4. Dhaval 
+   5. Sidhhant 
+
+## Mentors
+
+   1. Shivateja 
+   2. Kunal
