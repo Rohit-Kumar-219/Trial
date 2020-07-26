@@ -59,7 +59,6 @@ The bot has 5 servo motors connected to separate copper strings which is joined 
 | Servo motor | 149 |
 | 9V Battery | 25 |
 
-
 ## Applications 
  
    - For conrolling the movements of the robotic hands in factories for more precise works.
@@ -79,10 +78,14 @@ The bot has 5 servo motors connected to separate copper strings which is joined 
    1. Rohit Kumar 
    2. Rohit Sondarva
    3. Anubhuti Shruti
-   4. Dhaval 
-   5. Sidhhant 
+   4. Dhaval kanani
+   5. Sidhhant Taksande
 
 ## Mentors
 
    1. Shiva Sri Teja 
    2. Kunal
+
+## References
+   
+   - https://www.hindawi.com/journals/tswj/2014/267872/
